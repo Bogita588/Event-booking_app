@@ -1,1 +1,1 @@
-# Event-booking_app
+# Event seats-booking app using Javascript
