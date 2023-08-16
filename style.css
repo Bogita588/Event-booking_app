@@ -94,3 +94,9 @@
     perspective: 1000px;
     margin-bottom: 30px;
 }
+p.text {
+    margin: 5px 0;
+}
+p.text span{
+    color: aqua;
+}
